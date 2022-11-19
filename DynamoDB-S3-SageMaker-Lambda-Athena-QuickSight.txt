@@ -1,0 +1,1 @@
+https://aws.amazon.com/blogs/big-data/use-ml-predictions-over-amazon-dynamodb-data-with-amazon-athena-ml/
